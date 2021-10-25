@@ -1,0 +1,36 @@
+{
+  "files": {
+    "firstRecurringChar.js": [
+      {
+        "id": "cd29874b-d28b-478b-b918-cbbdc5130dad",
+        "line": 5,
+        "version": 246,
+        "index": 99
+      },
+      {
+        "id": "0ebe6285-55d0-434f-89b6-1a821c32207f",
+        "line": 6,
+        "version": 246,
+        "index": 122
+      },
+      {
+        "id": "1cd89d0b-90fa-4e35-b988-fa54edd07eee",
+        "line": 8,
+        "version": 246,
+        "index": 189
+      },
+      {
+        "id": "42ffcbc4-64b3-40fd-983b-b35d2ef7d487",
+        "line": 9,
+        "version": 246,
+        "index": 221
+      },
+      {
+        "id": "47cba5d8-1fb7-4139-94be-f115555387a7",
+        "line": 17,
+        "version": 246,
+        "index": 316
+      }
+    ]
+  }
+}
