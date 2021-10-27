@@ -53,5 +53,5 @@ que.enqueue('Twitter');
 que.dequeue()
 que.dequeue()
 que.dequeue()
-// que.peak()
+que.peak()
 
